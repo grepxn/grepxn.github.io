@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '程序员茶馆',
-  tagline: '一位不纯粹的开发者，对酒不感兴趣，却热衷于品茶。因此，他创办了一家小茶馆，用以记录生活中的点滴。',
+  tagline: '一位不纯粹的开发者，对酒不感兴趣，却热衷于品茶。因此，他创办了一家小茶馆，用以记录工作中的点滴。',
   favicon: 'img/favicon.ico',
 
   // 设置网站的url，因为用的github pages，且用户名按<username>.github.io创建的，因此静态网页的地址是https://username.github.io
@@ -42,7 +42,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "xxx",
-          showLastUpdateAuthor: true,
+          showLastUpdateAuthor: false,
           showLastUpdateTime: true,
           breadcrumbs: false,
         },
@@ -88,7 +88,7 @@ const config = {
         routeBasePath: "inbox",
         sidebarPath: require.resolve("./sidebars.js"),
         // editUrl: "https://git.7wate.org/zhouzhongping/wiki/src/branch/master",
-        showLastUpdateAuthor: true,
+        showLastUpdateAuthor: false,
         showLastUpdateTime: true,
         breadcrumbs: false,
       },
