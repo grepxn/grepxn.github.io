@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>向南`s Blog</title>
+        <link>https://grepxn.github.io/blog</link>
+        <description>向南的工作记录</description>
+        <lastBuildDate>Thu, 14 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <copyright>Copyright © 2023 grepxn, Inc.</copyright>
+        <item>
+            <title><![CDATA[搭建个人知识库]]></title>
+            <link>https://grepxn.github.io/blog/搭建个人知识库</link>
+            <guid>https://grepxn.github.io/blog/搭建个人知识库</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[搭建个人知识库]]></description>
+            <content:encoded><![CDATA[<p>xxx</p>]]></content:encoded>
+            <category>开源</category>
+            <category>知识库</category>
+            <category>博客</category>
+        </item>
+    </channel>
+</rss>

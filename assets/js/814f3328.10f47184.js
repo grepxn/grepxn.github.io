@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"\u8fd1\u671f\u6587\u7ae0","items":[{"title":"\u642d\u5efa\u4e2a\u4eba\u77e5\u8bc6\u5e93","permalink":"/blog/\u642d\u5efa\u4e2a\u4eba\u77e5\u8bc6\u5e93"}]}')}}]);

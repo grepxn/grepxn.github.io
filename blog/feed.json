@@ -1,0 +1,24 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "向南`s Blog",
+    "home_page_url": "https://grepxn.github.io/blog",
+    "description": "向南的工作记录",
+    "items": [
+        {
+            "id": "https://grepxn.github.io/blog/搭建个人知识库",
+            "content_html": "<p>xxx</p>",
+            "url": "https://grepxn.github.io/blog/搭建个人知识库",
+            "title": "搭建个人知识库",
+            "summary": "搭建个人知识库",
+            "date_modified": "2023-12-14T00:00:00.000Z",
+            "author": {
+                "name": "西南"
+            },
+            "tags": [
+                "开源",
+                "知识库",
+                "博客"
+            ]
+        }
+    ]
+}
